@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe, often referred to as "Noughts and Crosses," is a classic two-player game typically played on a 3x3 grid. 
+Tic-Tac-Toe, often referred to as "Noughts and Crosses," is a classic two-player game typically played on a 3x3 grid. In a Python program for Tic-Tac-Toe, you create a game where two players take turns marking spaces with "X" and "O" until one player wins by getting three of their marks in a row, column, or diagonal, or the game ends in a draw when the board is filled.
+The program typically involves functions to display the board, get player input, check for a win or draw, and update the board. It's a popular programming project for beginners to practice logic, conditional statements, and loops in Python.
